@@ -1,0 +1,10 @@
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\obj\Debug\JohnsonAlgorithms.csprojAssemblyReference.cache
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.JohnsonAlgorithm.resources
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.Properties.Resources.resources
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\obj\Debug\JohnsonAlgorithms.csproj.GenerateResource.cache
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\obj\Debug\JohnsonAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Getasis\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
