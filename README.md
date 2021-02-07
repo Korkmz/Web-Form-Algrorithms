@@ -1,1 +1,1 @@
-# Web-Form-Algrorithms
+C# Web Form üzerinde çeşitli algoritmalar çalışma yapılmaktatırş.
