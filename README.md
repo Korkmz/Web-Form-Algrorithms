@@ -1,1 +1,1 @@
-C# Web Form üzerinde çeşitli algoritmalar çalışma yapılmaktatırş.
+C# Web Form üzerinde çeşitli algoritmalar ile çalışma yapılmaktatır.
