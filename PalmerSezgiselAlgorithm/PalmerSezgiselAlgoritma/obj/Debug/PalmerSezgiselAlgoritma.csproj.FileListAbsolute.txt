@@ -1,0 +1,5 @@
+C:\Users\Getasis\source\repos\PalmerSezgiselAlgoritma\PalmerSezgiselAlgoritma\obj\Debug\PalmerSezgiselAlgoritma.csprojAssemblyReference.cache
+C:\Users\Getasis\source\repos\PalmerSezgiselAlgoritma\PalmerSezgiselAlgoritma\obj\Debug\PalmerSezgiselAlgoritma.Form1.resources
+C:\Users\Getasis\source\repos\PalmerSezgiselAlgoritma\PalmerSezgiselAlgoritma\obj\Debug\PalmerSezgiselAlgoritma.Properties.Resources.resources
+C:\Users\Getasis\source\repos\PalmerSezgiselAlgoritma\PalmerSezgiselAlgoritma\obj\Debug\PalmerSezgiselAlgoritma.csproj.GenerateResource.cache
+C:\Users\Getasis\source\repos\PalmerSezgiselAlgoritma\PalmerSezgiselAlgoritma\obj\Debug\PalmerSezgiselAlgoritma.csproj.CoreCompileInputs.cache
