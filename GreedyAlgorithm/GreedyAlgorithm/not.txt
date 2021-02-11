@@ -1,3 +1,5 @@
 Greedy Algorithm(AçGözlü Algoritma)
 Bir problemin çözümünde ileride doğabilecek sonuçlar göz önüne alınmadan, mevcut şartlar altında en iyi olan seçimin yapılması gerektiğini savunan yaklaşımına
-açgözlü algoritma (greedy algorithm) denir.
+açgözlü algoritma (greedy algorithm) denir.Bazı problemlerde güzel sonuç verdiği bazı problemler için sorundur.Bir problem çözme yaklaşımı olan açgözlü algoritmada, 
+her adımda optimal bir çözüm bulunur. Böyle bir yaklaşım belki her zaman kesin çözüm vermez ama basit olduğu için karmaşık hesaplamalar gerektirmez 
+ve en azından belirli bir sürede problemi çözüme kavuşturur.
