@@ -1,0 +1,3 @@
+Greedy Algorithm(AçGözlü Algoritma)
+Bir problemin çözümünde ileride doğabilecek sonuçlar göz önüne alınmadan, mevcut şartlar altında en iyi olan seçimin yapılması gerektiğini savunan yaklaşımına
+açgözlü algoritma (greedy algorithm) denir.
